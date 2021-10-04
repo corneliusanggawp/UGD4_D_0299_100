@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UGD4_D_0299_100</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="clear_field">Clear Field</string>
+    <string name="add">Add</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Selamat Datang, Username</string>
+</resources>
